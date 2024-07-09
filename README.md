@@ -157,5 +157,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
-Dokumentasi ini mencakup semua informasi dasar yang diperlukan untuk menggunakan dan mengembangkan proyek `wordpress-password-generator`. Anda dapat menyesuaikan informasi ini sesuai dengan kebutuhan dan preferensi Anda.
