@@ -1,5 +1,3 @@
-Berikut adalah contoh dokumentasi untuk proyek `wordpress-password-generator` yang diambil dari GitHub. Dokumentasi ini mencakup deskripsi proyek, cara menginstal dependensi, cara menjalankan script, dan informasi lain yang relevan.
-
 ### `README.md`
 
 ```markdown
